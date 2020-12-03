@@ -24,3 +24,9 @@ console.log(myNumber > 13);
 console.log(myNumber /2);
 console.log(myNumber % 1);
 console.log(myNumber += 25);
+//wheather variable
+let wheather = "sunny"
+//returns true
+console.log(wheather === 'sunny');
+//returns false , since we defined the wheather as sunny
+console.log(wheather === "cloudy");
