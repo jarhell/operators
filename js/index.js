@@ -25,8 +25,14 @@ console.log(myNumber /2);
 console.log(myNumber % 1);
 console.log(myNumber += 25);
 //wheather variable
-let wheather = "sunny"
+let wheather = "sunny";
 //returns true
 console.log(wheather === 'sunny');
 //returns false , since we defined the wheather as sunny
 console.log(wheather === "cloudy");
+//mixed data three equal signs/ it returns false
+var money = 30;
+console.log(money + money );
+//double equal signs
+console.log(money == 'thirty');
+//to be continue
